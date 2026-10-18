@@ -1,0 +1,6 @@
+{
+  "name": "Studio UI/UX - Interactive Design & Prototype Studio",
+  "description": "Studio perancangan UI/UX interaktif modern dengan showcase dashboard SaaS, mobile app, landing page, dan design system token live editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
